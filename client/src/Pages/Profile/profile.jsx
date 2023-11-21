@@ -140,6 +140,18 @@ const Profile = () => {
             </span>
           </h1>
           <h2>Email: {email}</h2>
+
+          {selectore?.user?.userValue?.data?.role == "aklogicAdmin" && (
+            <button
+              onClick={() => {
+                navigate("/aklogicadmin");
+              }}
+              className="py-2 px-10 mr-10 rounded-md bg-[#004282] transition-all text-white hover:text-[#004282] hover:bg-white mt-2 text-xs  border-transparent border hover:border-[#004282] "
+            >
+              Admin Panel
+            </button>
+          )}
+
           <button
             onClick={handleLogout}
             className="py-2 px-10  rounded-md bg-[#004282] transition-all text-white hover:text-[#004282] hover:bg-white mt-2 text-xs  border-transparent border hover:border-[#004282] "

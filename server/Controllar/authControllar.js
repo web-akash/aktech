@@ -39,7 +39,7 @@ async function singup(req, res) {
           token: create_UUID(),
         });
         mng.save();
-        let verifyLink = `http://localhost:8000/api/auth/verify/${mng.token}`;
+        let verifyLink = `https://aktech.onrender.com/api/auth/verify/${mng.token}`;
 
         sendEmail(email, verifyLink);
         return res.json({ success: "successfully Singup" });
@@ -82,9 +82,13 @@ async function verifyEmail(req, res) {
       { $set: { verify: true } },
       { new: true }
     );
-    return res.redirect(`http://localhost:5173/emailverify/${req.params.id}`);
+    return res.redirect(
+      `https://akasshtech.netlify.app/emailverify/${req.params.id}`
+    );
   } else {
-    return res.redirect(`http://localhost:5173/errorverify/${req.params.id}`);
+    return res.redirect(
+      `https://akasshtech.netlify.app/errorverify/${req.params.id}`
+    );
   }
 }
 

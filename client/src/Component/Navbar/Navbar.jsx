@@ -69,7 +69,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between h-16">
             <div className="flex-shrink-0">
               <Link to="/">
-                <img src={logo} alt="" className="w-[112px] md:w-[125px]" />
+                <h1 className="text-2xl font-bold text-[#004282]">Ak Tech</h1>
               </Link>
             </div>
             {/* <div className="md:block hidden">
@@ -140,6 +140,7 @@ const Navbar = () => {
                     Clients
                   </button>
                 </Link>
+
                 {/* <Link to="/about_us">
                   <button
                     className="btn2 text-xs px-3 py-2 rounded-md relative border text-[#545454] border-[#F5F5F5]  tracking-wider leading-none overflow-hidden hover:text-white"
@@ -163,6 +164,18 @@ const Navbar = () => {
                       Contact Us
                     </span>
                     Contact Us
+                  </button>
+                </Link>
+                <Link to="/login">
+                  <button
+                    className="btn2 text-xs px-3 py-2 rounded-md relative border text-[#545454] border-[#F5F5F5]  tracking-wider leading-none overflow-hidden hover:text-white"
+                    type="button"
+                  >
+                    <span className="absolute inset-0 bg-[#004282]"></span>
+                    <span className="absolute inset-0 flex justify-center items-center ">
+                      Login
+                    </span>
+                    Login
                   </button>
                 </Link>
                 {selecotor.user.userValue?.success ? (
@@ -251,6 +264,12 @@ const Navbar = () => {
               className="text-[#545454] hover:border-b block px-3 py-2 rounded-md  text-lg font-medium"
             >
               Contact Us
+            </Link>
+            <Link
+              to="/login"
+              className="text-[#545454] hover:border-b block px-3 py-2 rounded-md  text-lg font-medium"
+            >
+              Login
             </Link>
             {selecotor.user.userValue?.success ? (
               <Link

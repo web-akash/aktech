@@ -23,7 +23,7 @@ let allowedOrigins = [];
 if (process.env.NODE_ENV === "development") {
   allowedOrigins = [`${process.env.SERVER_URL_DEV}`];
 } else {
-  allowedOrigins = [`http://localhost:5173/`];
+  allowedOrigins = [`https://akasshtech.netlify.app/`];
 }
 
 app.use(cors());

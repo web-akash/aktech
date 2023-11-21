@@ -82,7 +82,7 @@ const Signup = () => {
       setError(newError);
     } else {
       let data = await axios
-        .post("http://localhost:8000/api/auth/singup", {
+        .post("/api/auth/singup", {
           fullname: info.fullname,
           email: info.email,
           number: info.number,
