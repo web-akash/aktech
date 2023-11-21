@@ -1,0 +1,282 @@
+[
+  {
+    "_id": "653f9cce466e4a496873477f",
+    "image": "https://i.ibb.co/JFvCsnG/screencapture-wetheme-fashion-app-netlify-app-2023-10-07-14-56-01.png",
+    "title": "Kinbay E-Commerce Web app",
+    "technology": "Tech X",
+    "price": 16000,
+    "category": "eCommerce",
+    "discountPrice": 32000,
+    "link": "https://wetheme-fashion-app.netlify.app",
+    "dis": "The NariHealth ",
+    "features": "Cross Browser Compatibility: Chrome, Firefox, Safari, Opera | Using Free Plugins (Elementor Pro is not required) | 100% Fully Responsive & mobile-friendly | Modern and Unique design | 12+ pre-built templates ready to use |  Customize fonts and colors in one place (Global Kit Style)    ",
+    "Templates": "Homepage | About Us | Services | Service Detail | Team |  FAQs | Blog | Contact | 404 | Header | Footer"
+  },
+
+  {
+    "_id": "2",
+    "image": "https://i.ibb.co/JFvCsnG/screencapture-wetheme-fashion-app-netlify-app-2023-10-07-14-56-01.png",
+    "title": "business",
+    "technology": "Tech X",
+    "price": 15000,
+    "category": "business",
+    "discountPrice": 30000,
+    "link": "https://wetheme-fashion-app.netlify.app",
+    "dis": "The NariHealth .",
+    "features": "Cross Browser Compatibility: Chrome, Firefox, Safari, Opera | Using Free Plugins (Elementor Pro is not required) | 100% Fully Responsive & mobile-friendly | Modern and Unique design | 12+ pre-built templates ready to use |  Customize fonts and colors in one place (Global Kit Style)    ",
+    "Templates": "Homepage | About Us | Services | Service Detail | Team |  FAQs | Blog | Contact | 404 | Header | Footer"
+  },
+  {
+    "_id": "3",
+    "image": "https://i.ibb.co/5RRJ8Zk/screencapture-wetheme-education-netlify-app-2023-10-07-15-06-06.png",
+    "technology": "Tech Z",
+    "price": 180,
+    "title": "E Learning your Team",
+    "category": "education",
+    "link": "https://wetheme-education.netlify.app/",
+    "dis": "Embodied with the essence of simplicity and sophistication, Construo revolutionizes the way you present your construction business online. Designed to serve as the quintessential portfolio WordPress theme, Construo offers a plethora of fruitful features and an advanced toolset tailored for every construction professional. It presents a contemporary, multi-faceted approach, allowing you to shape your online portfolio effortlessly, showcase your finest projects, and impress potential clients with your prestigious clientele and unparalleled expertise.",
+    "discountPrice": 30000,
+    "features": "Cross Browser Compatibility: Chrome, Firefox, Safari, Opera | Using Free Plugins (Elementor Pro is not required) | 100% Fully Responsive & mobile-friendly | Modern and Unique design | 12+ pre-built templates ready to use |  Customize fonts and colors in one place (Global Kit Style)    ",
+    "Templates": "Homepage | About Us | Services | Service Detail | Team |  FAQs | Blog | Contact | 404 | Header | Footer"
+  },
+  {
+    "_id": "4",
+    "image": "https://i.ibb.co/sbvfstS/screencapture-wetheme-mix-construction-netlify-app-2023-10-07-15-07-30.png",
+    "title": "Construction Services",
+    "technology": "Tech X",
+    "price": 220,
+    "discountPrice": 30000,
+    "category": "business",
+    "link": "https://wetheme-mix-construction.netlify.app/",
+    "dis": "Embodied with the essence of simplicity and sophistication, Construo revolutionizes the way you present your construction business online. Designed to serve as the quintessential portfolio WordPress theme, Construo offers a plethora of fruitful features and an advanced toolset tailored for every construction professional. It presents a contemporary, multi-faceted approach, allowing you to shape your online portfolio effortlessly, showcase your finest projects, and impress potential clients with your prestigious clientele and unparalleled expertise.",
+    "features": "Cross Browser Compatibility: Chrome, Firefox, Safari, Opera | Using Free Plugins (Elementor Pro is not required) | 100% Fully Responsive & mobile-friendly | Modern and Unique design | 12+ pre-built templates ready to use |  Customize fonts and colors in one place (Global Kit Style)    ",
+    "Templates": "Homepage | About Us | Services | Service Detail | Team |  FAQs | Blog | Contact | 404 | Header | Footer"
+  },
+  {
+    "_id": "5",
+    "image": "https://i.ibb.co/sbvfstS/screencapture-wetheme-mix-construction-netlify-app-2023-10-07-15-07-30.png",
+    "title": "construction",
+    "technology": "Tech X",
+    "category": "news",
+    "discountPrice": 30000,
+    "price": 220,
+    "link": "https://wetheme-mix-construction.netlify.app/"
+  },
+  {
+    "_id": "6",
+    "category": "education",
+    "image": "https://i.ibb.co/sbvfstS/screencapture-wetheme-mix-construction-netlify-app-2023-10-07-15-07-30.png",
+    "title": "construction",
+    "technology": "Tech X",
+    "price": 220,
+    "discountPrice": 30000,
+    "link": "https://wetheme-mix-construction.netlify.app/"
+  },
+  {
+    "_id": "7",
+    "image": "https://i.ibb.co/sbvfstS/screencapture-wetheme-mix-construction-netlify-app-2023-10-07-15-07-30.png",
+    "title": "construction",
+    "technology": "Tech X",
+    "price": 220,
+    "discountPrice": 30000,
+    "link": "https://wetheme-mix-construction.netlify.app/"
+  },
+  {
+    "_id": "8",
+    "image": "../src/assets/works/website-demos/layout-6.png",
+    "title": "Ecommerce 5",
+    "category": "eCommerce",
+    "technology": "Tech Z",
+    "discountPrice": 30000,
+    "price": 300
+  },
+  {
+    "_id": "6",
+    "image": "../src/assets/works/website-demos/layout-8.png",
+    "title": "Ecommerce 6",
+    "category": "eCommerce",
+    "technology": "Tech Y",
+    "discountPrice": 30000,
+    "price": 170
+  },
+  {
+    "_id": "9",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 1",
+    "category": "eCommerce",
+    "technology": "Tech Z",
+    "discountPrice": 30000,
+    "price": 190
+  },
+  {
+    "_id": "8",
+    "category": "eCommerce",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 2",
+    "technology": "Tech X",
+    "discountPrice": 30000,
+    "price": 280
+  },
+  {
+    "_id": "9",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 3",
+    "category": "eCommerce",
+    "technology": "Tech Y",
+    "discountPrice": 30000,
+    "price": 210
+  },
+  {
+    "_id": "10",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 4",
+    "technology": "Tech X",
+    "category": "eCommerce",
+    "discountPrice": 30000,
+    "price": 150
+  },
+  {
+    "_id": "11",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 5",
+    "category": "eCommerce",
+    "technology": "Tech Y",
+    "discountPrice": 30000,
+    "price": 200
+  },
+  {
+    "_id": "12",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 6",
+    "category": "eCommerce",
+    "technology": "Tech Z",
+    "discountPrice": 30000,
+    "price": 180
+  },
+  {
+    "_id": "13",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 7",
+    "technology": "Tech X",
+    "category": "eCommerce",
+    "discountPrice": 30000,
+    "price": 220
+  },
+  {
+    "_id": "14",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 8",
+    "discountPrice": 30000,
+    "category": "eCommerce",
+    "technology": "Tech Z",
+    "price": 300
+  },
+  {
+    "_id": "15",
+    "image": "../src/assets/works/website-demos/layout-5.png",
+    "title": "Mobile 9",
+    "technology": "Tech Y",
+    "category": "eCommerce",
+    "discountPrice": 30000,
+    "price": 170
+  },
+  {
+    "_id": "16",
+    "image": "../src/assets/works/website-demos/layout-9.png",
+    "title": "Ecommerce 7",
+    "discountPrice": 30000,
+    "category": "eCommerce",
+    "technology": "Tech Z",
+    "price": 190
+  },
+  {
+    "_id": "17",
+    "image": "../src/assets/works/website-demos/layout-10.png",
+    "title": "Ecommerce 8",
+    "technology": "Tech X",
+    "category": "eCommerce",
+    "discountPrice": 30000,
+    "price": 280
+  },
+  {
+    "_id": "18",
+    "image": "../src/assets/works/website-demos/layout-11.webp",
+    "title": "Ecommerce 9",
+    "category": "eCommerce",
+    "technology": "Tech Y",
+    "discountPrice": 30000,
+    "price": 210
+  },
+  {
+    "_id": "19",
+    "image": "../src/assets/works/website-demos/layout-1.png",
+    "title": "Ecommerce 10",
+    "discountPrice": 30000,
+    "category": "eCommerce",
+    "technology": "Tech X",
+    "price": 150
+  },
+  {
+    "_id": "20",
+    "image": "../src/assets/works/website-demos/layout-2.png",
+    "title": "Ecommerce 11",
+    "technology": "Tech Y",
+    "category": "eCommerce",
+    "price": 200
+  },
+  {
+    "_id": "21",
+    "image": "../src/assets/works/website-demos/layout-3.png",
+    "title": "Ecommerce 12",
+    "technology": "Tech Z",
+    "price": 180
+  },
+  {
+    "_id": "22",
+    "category": "eCommerce",
+    "image": "../src/assets/works/website-demos/layout-4.png",
+    "title": "Ecommerce 13",
+    "technology": "Tech X",
+    "price": 220
+  },
+  {
+    "_id": "23",
+    "image": "../src/assets/works/website-demos/layout-6.png",
+    "title": "Ecommerce 14",
+    "technology": "Tech Z",
+    "category": "eCommerce",
+    "price": 300
+  },
+  {
+    "_id": "24",
+    "image": "../src/assets/works/website-demos/layout-8.png",
+    "title": "Ecommerce 15",
+    "technology": "Tech Y",
+    "category": "eCommerce",
+    "price": 170
+  },
+  {
+    "_id": "25",
+    "image": "../src/assets/works/website-demos/layout-9.png",
+    "title": "Ecommerce 16",
+    "technology": "Tech Z",
+    "category": "eCommerce",
+    "price": 190
+  },
+  {
+    "_id": "26",
+    "image": "../src/assets/works/website-demos/layout-10.png",
+    "title": "Ecommerce 17",
+    "technology": "Tech X",
+    "category": "eCommerce",
+    "price": 280
+  },
+  {
+    "_id": "28",
+    "image": "../src/assets/works/website-demos/layout-11.webp",
+    "title": "Ecommerce 18",
+    "technology": "Tech Y",
+    "category": "eCommerce",
+    "price": 210
+  }
+]

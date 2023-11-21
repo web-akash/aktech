@@ -1,0 +1,24 @@
+{
+  "options": [
+    {
+      "id": 1,
+      "name": "Design",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "Development",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "Hosting",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "Maintenance",
+      "price": 50
+    }
+  ]
+}

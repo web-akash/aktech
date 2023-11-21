@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Design",
+      "subCategories": [
+        {
+          "id": 11,
+          "name": "Static Design",
+          "options": [
+            {
+              "id": 111,
+              "name": "Basic Static Design",
+              "price": 100
+            },
+            {
+              "id": 112,
+              "name": "Premium Static Design",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Dynamic Design",
+          "options": [
+            {
+              "id": 121,
+              "name": "Basic Dynamic Design",
+              "price": 150
+            },
+            {
+              "id": 122,
+              "name": "Advanced Dynamic Design",
+              "price": 250
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Development",
+      "subCategories": [
+        {
+          "id": 21,
+          "name": "Front-end Development",
+          "options": [
+            {
+              "id": 211,
+              "name": "Basic Front-end Development",
+              "price": 100
+            },
+            {
+              "id": 212,
+              "name": "Advanced Front-end Development",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Back-end Development",
+          "options": [
+            {
+              "id": 221,
+              "name": "Basic Back-end Development",
+              "price": 120
+            },
+            {
+              "id": 222,
+              "name": "Advanced Back-end Development",
+              "price": 220
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
