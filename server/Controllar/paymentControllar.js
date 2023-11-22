@@ -200,7 +200,7 @@ const success = async (req, res) => {
   billingMail(email, htmlTemplate);
 
   return res.redirect(
-    `http://localhost:5173/paymentSuccess/${req.params.tranid}`
+    `https://aktech.onrender.com/paymentSuccess/${req.params.tranid}`
   );
 };
 
@@ -216,7 +216,7 @@ const paymentFaild = async (req, res) => {
   });
   console.log("suc", productsupdate);
   return res.redirect(
-    `http://localhost:5173/paymentfailed/${req.params.tranid}`
+    `https://aktech.onrender.com/paymentfailed/${req.params.tranid}`
   );
 };
 
@@ -229,6 +229,8 @@ const paymentCancel = async (req, res) => {
     transitionId: data,
   });
   console.log("suc", productsupdate);
-  res.redirect(`http://localhost:5173/paymentCancal/${req.params.tranid}`);
+  res.redirect(
+    `https://aktech.onrender.com/paymentCancal/${req.params.tranid}`
+  );
 };
 module.exports = { paymentConntrollar, success, paymentFaild, paymentCancel };
